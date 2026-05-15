@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 [Profile on SO](https://stackoverflow.com/users/12287457)
 
-![Profile views counter](https://komarev.com/ghpvc/?username=benjaminorthner&&style=flat-square)
+![Profile views counter](https://komarev.com/ghpvc/?username=guwidoe&&style=flat-square)
